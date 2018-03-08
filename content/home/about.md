@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Nonparametric Statistics",
     "Machine Learning",
-    "Data Visulization"
+    "Data Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
