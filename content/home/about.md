@@ -10,9 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Nonparametric Statistics",
-    "Machine Learning",
-    "Data Visualization"
+  "Bayesian Statistics",
+  "Data Science",
+  "Nonparametric Statistics",
+  "Machine Learning",
+  "Data Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,6 +36,8 @@ weight = 5
 +++
 
 # Biography
+
+I am postdoctoral research associate at the [Institute for Transportation](intrans.iastate.edu) in Iowa State University. 
 
 This website is under **construction**. Most of its content is part of the template
 
