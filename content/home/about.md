@@ -10,11 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+  "Generalized Mixed Effects Models",
+  "Data Visualization",
   "Bayesian Statistics",
   "Data Science",
   "Nonparametric Statistics",
-  "Machine Learning",
-  "Data Visualization"
+  "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "basulto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "basulto_at_iastate.edu"
-  address = "191 Durham Center, 613 Morrill Road, Ames, IA, 50011, USA"
+  address = "2711 South Loop Drive, Suite 4700, Ames, IA, 50010, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
