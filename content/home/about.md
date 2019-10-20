@@ -38,7 +38,7 @@ weight = 5
 
 # Biography
 
-I am postdoctoral research associate at the [Institute for Transportation](www.intrans.iastate.edu) in Iowa State University. 
+I an assistant scientist at the [Institute for Transportation](www.intrans.iastate.edu) in Iowa State University. 
 
 This website is under **construction**. Most of its content is part of the template
 
