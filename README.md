@@ -2,7 +2,7 @@
 
 🎓 Research Scientist at [Institute for Transportation(InTrans), Iowa State University  
 📍 Based in Ames, Iowa  
-🌐 Google Scholar | [Website](http://gbasulto.com)
+🌐 Google Scholar | [Website](https://scholar.google.com/citations?user=Gsc3_5AAAAAJ&hl=en&oi=ao)
 
 I am a research scientist at the [Institute for Transportation at Iowa State University](https://www.intrans.iastate.edu/), with a strong background in statistics, data science, and transportation. My work focuses on developing statistical methodologies and computational tools to improve transportation research and support decision-making. I enjoy creating visualization tools (primarily using Shiny), developing statistical models related to transportation, and creating R packages.
 
@@ -29,5 +29,4 @@ Here are some of the open-source projects I maintain or contribute to:
 
 ## 📈 Research & Publications
 
-I actively publish in areas related to transportation statistics, kernel methods, and computational statistics. You can find my academic work on [Google Scholar](https://scholar.google.com/citations?user=Gsccollaboration, especially on open-source statistical tools or transportation data analysis. Feel free to reach out via [my website](http://gbasrough GitHub!
-
+I actively publish in areas related to transportation statistics, kernel methods, and computational statistics. You can find mora about my work at [InTrans Website](https://www.intrans.iastate.edu/people/guillermo-basulto-elias/).
