@@ -10,9 +10,9 @@ I am a research scientist at the [Institute for Transportation at Iowa State Uni
 
 ## 🧰 Tools & Technologies
 
-- **Languages**: R, C++, Python, MATLAB
-- **Specialties**: Statistical modeling, kernel methods, Fourier analysis, empirical characteristic functions
-- **Tools**: RStudio, Git, LaTeX, QGIS
+- **Languages**: R, C++, Python, AutoIt, SAS, MATLAB
+- **Specialties**: Statistical modeling in transportation
+- **Tools**: RStudio, Git, LaTeX, ArcGIS Pro
 
 ---
 
