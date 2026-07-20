@@ -20,7 +20,7 @@ I am a research scientist at the [Institute for Transportation at Iowa State Uni
 
 Here are some of the open-source projects I maintain or contribute to:
 
-- 🔹 [**cureplots**](https://github.com/gbasulto): Create cumulative residual (CURE) plots for model diagnostics in R  
+- 🔹 [**cureplots**](https://gbasulto.github.io/cureplots): Create cumulative residual (CURE) plots for model diagnostics in R  
 - 🔹 [**fourierin**](https://github.com/gbasulto): Numerical computation of Fourier integrals using C++  
 - 🔹 [**empichar**](https://github.com/gbasulto): Evaluate empirical characteristic functions for multivariate samples  
 - 🔹 [**ERDbuilder**](https://github.com/gbasulto): Build Entity Relationship Diagrams in R
